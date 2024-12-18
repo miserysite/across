@@ -71,13 +71,13 @@ speed_test() {
 
 speed() {
     speed_test '' 'Speedtest.net'
-    speed_test '19230' 'Los Angeles'
+    speed_test '13516' 'Los Angeles'
     speed_test '53651' 'Frankfurt'
     speed_test '28910' 'Tokyo'
     speed_test '13279' 'Sydney'
     speed_test '42952' 'São Paulo'
     speed_test '17336' 'Dubai'
-    speed_test '15532' 'Johannesburg'
+    speed_test '12286' 'Johannesburg'
     speed_test '9035' 'Almaty'
     speed_test '21016' 'New York'
     speed_test '37639' 'Hong Kong'
